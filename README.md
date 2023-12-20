@@ -29,12 +29,15 @@ How to Use
 To replicate or extend the analyses:
 1.	Clone this repository: git clone https://github.com/rabiasevil/nematode.git
 2.	Download the required files:
+   
 •	Nematode.ipynb: The primary Jupyter Notebook containing the analysis.
+
 •	Nematode.csv: The dataset with nematode samples and heavy metal concentrations.
+
 Save these files into the same directory as the notebook.
-3.	Open Jupyter Notebook in your local environment.
-4.	Open the notebook named Nematode.ipynb.
-5.	Run each cell sequentially to reproduce the analyses.
+4.	Open Jupyter Notebook in your local environment.
+5.	Open the notebook named Nematode.ipynb.
+6.	Run each cell sequentially to reproduce the analyses.
 
 
 Dependencies
