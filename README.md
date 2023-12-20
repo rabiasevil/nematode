@@ -37,20 +37,31 @@ To replicate or extend the analyses:
 Save these files into the same directory as the notebook.
 
 4.	Open Jupyter Notebook in your local environment.
-5.	Open the notebook named Nematode.ipynb.
-6.	Run each cell sequentially to reproduce the analyses.
+   
+6.	Open the notebook named Nematode.ipynb.
+   
+8.	Run each cell sequentially to reproduce the analyses.
 
 
 Dependencies
+
 The notebook relies on the following Python libraries:
+
 •	Pandas
+
 •	Seaborn
+
 •	Matplotlib
+
 •	Scikit-learn (for Linear Regression Model)
+
 •	Scikit-posthocs
+
 •	Scipy (for statistical tests)
+
 •	Statsmodels (for additional statistical analysis)
 
 To install the required packages, run the following command:
+
 pip install pandas seaborn matplotlib scikit-learn scipy statsmodels scikit-posthocs
 
