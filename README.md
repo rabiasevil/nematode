@@ -6,10 +6,15 @@ This repository contains data and analyses related to the concentration of heavy
 Dataset
 
 The primary dataset used for this analysis is named Nematode.csv. It includes the following columns: 
+
 •	Area: Geographic area where nematode samples were collected (e.g., Bagnoli-Coroglio Bay (contaminated), Gabicce Mare (control)).
+
 •	Trophic group: Trophic level of nematodes (predators of microbes, deposit feerder, microalgal grazers, predators of metazoans).
+
 •	Code: Area-specific code.
+
 •	Nematode individual biomass: Biomass of individual nematodes.
+
 •	Metal concentrations (Cr, Cu, Mn, Ni, Zn): Concentrations of different heavy metals.
 
 Analysis Questions
