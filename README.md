@@ -35,6 +35,7 @@ To replicate or extend the analyses:
 •	Nematode.csv: The dataset with nematode samples and heavy metal concentrations.
 
 Save these files into the same directory as the notebook.
+
 4.	Open Jupyter Notebook in your local environment.
 5.	Open the notebook named Nematode.ipynb.
 6.	Run each cell sequentially to reproduce the analyses.
