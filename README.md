@@ -21,7 +21,7 @@ Analysis Questions
 1.	How do metal concentrations vary across different trophic groups?
 Analysis: The notebook utilizes Kruskal-Wallis and Tukey’s post hoc tests to explore variations in metal concentrations among trophic groups.
 2.	Are there any significant differences in metal levels between contaminated sediments and control sites? 
-Analysis: Investigate metal concentration differences between areas (contaminated vs. control) and trophic group, using Kruskal-Wallis.
+Analysis: Investigate metal concentration differences between areas (contaminated vs. control), using Kruskal-Wallis.
 3.	Is there a positive correlation between nematode biomass and heavy metal concentration? How is this affected by trophic group?
 Analysis: Utilize linear regression models to explore the correlation between nematode biomass and metal concentrations. Assess whether trophic groups influence this correlation.
 
