@@ -4,6 +4,7 @@ Overview
 This repository contains data and analyses related to the concentration of heavy metals in nematode samples from different areas and trophic groups. The primary analysis is conducted in a Jupyter Notebook named Nematode.ipynb. The notebook explores various research questions related to heavy metal distribution, trophic levels, and geographic areas. 
 
 Dataset
+
 The primary dataset used for this analysis is named Nematode.csv. It includes the following columns: 
 •	Area: Geographic area where nematode samples were collected (e.g., Bagnoli-Coroglio Bay (contaminated), Gabicce Mare (control)).
 •	Trophic group: Trophic level of nematodes (predators of microbes, deposit feerder, microalgal grazers, predators of metazoans).
